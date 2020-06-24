@@ -14,20 +14,14 @@ import './common.css';
 class App extends Component {
   render() {
     return (
-      <div className = "banner-image">
+      <div className="banner-image">
       <div class="inner-banner-image">	
          <Router>
         <Header />
-        <Switch>
-          <Route exact path='/portfolio'>
-            <Home />
-          </Route>
-          <Route exact path='/portfolio/about'>
-            <About />
-          </Route>
-          <Route exact path='/portfolio/contact'>
-            <Contact />
-          </Route>
+         <Switch>
+          <Route path="/portfolio" exact component={Home} />
+          <Route path="/portfolio/about" component={About} />
+          <Route path="/portfolio/contact" component={Contact} />
         </Switch>
       </Router>
      </div>

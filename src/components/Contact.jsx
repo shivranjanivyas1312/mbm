@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 
+import {Link} from "react-router-dom";
+
 
 import userImage from '../data/background.jpeg';
 import resume from '../data/resume.pdf';
@@ -33,15 +35,15 @@ class Contact extends Component {
                             </a>
                         </h3>
                         <div className='social-profile'>
-                            <a href='https://www.linkedin.com/in/shivranjani-vyas-b535b2178/' target='_blank' rel="noopener noreferrer">
+                            <Link href='https://www.linkedin.com/in/shivranjani-vyas-b535b2178/' target='_blank' rel="noopener noreferrer">
                                 <img src={linkedinIcon} alt='linkedin' />
-                            </a>
-                            <a href='https://github.com/shivranjanivyas1312' target='_blank' rel="noopener noreferrer">
+                            </Link>
+                            <Link href='https://github.com/shivranjanivyas1312' target='_blank' rel="noopener noreferrer">
                                 <img src={githubIcon} alt='github' />
-                            </a>
-                            <a href='https://twitter.com/shivranjanivyas' target='_blank' rel="noopener noreferrer">
+                            </Link>
+                            <Link href='https://twitter.com/shivranjanivyas' target='_blank' rel="noopener noreferrer">
                                 <img src={twitterIcon} alt='twitter' />
-                            </a>
+                            </Link>
                         </div>
                     </div>
                 </div>

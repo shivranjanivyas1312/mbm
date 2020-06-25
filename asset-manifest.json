@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mbm/static/css/main.1c029319.chunk.css",
+    "main.js": "/mbm/static/js/main.1302e770.chunk.js",
+    "main.js.map": "/mbm/static/js/main.1302e770.chunk.js.map",
+    "runtime-main.js": "/mbm/static/js/runtime-main.a8bdd015.js",
+    "runtime-main.js.map": "/mbm/static/js/runtime-main.a8bdd015.js.map",
+    "static/js/2.dc83811a.chunk.js": "/mbm/static/js/2.dc83811a.chunk.js",
+    "static/js/2.dc83811a.chunk.js.map": "/mbm/static/js/2.dc83811a.chunk.js.map",
+    "index.html": "/mbm/index.html",
+    "precache-manifest.d9b4579eac12a5417840409008048cba.js": "/mbm/precache-manifest.d9b4579eac12a5417840409008048cba.js",
+    "service-worker.js": "/mbm/service-worker.js",
+    "static/css/main.1c029319.chunk.css.map": "/mbm/static/css/main.1c029319.chunk.css.map",
+    "static/js/2.dc83811a.chunk.js.LICENSE.txt": "/mbm/static/js/2.dc83811a.chunk.js.LICENSE.txt",
+    "static/media/background.jpeg": "/mbm/static/media/background.5cd58a86.jpeg",
+    "static/media/mobile.png": "/mbm/static/media/mobile.4ade2d9a.png",
+    "static/media/App.css": "/mbm/static/media/pic.85b15754.jpeg",
+    "static/media/resume.pdf": "/mbm/static/media/resume.5ced44e8.pdf",
+    "static/media/twitter.png": "/mbm/static/media/twitter.c4489a5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8bdd015.js",
+    "static/js/2.dc83811a.chunk.js",
+    "static/css/main.1c029319.chunk.css",
+    "static/js/main.1302e770.chunk.js"
+  ]
+}
